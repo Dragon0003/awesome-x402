@@ -1,4 +1,4 @@
-# Awesome X402
+# Awesome x402
 
 ![Merit Logo](./merit-logo.webp)
 
