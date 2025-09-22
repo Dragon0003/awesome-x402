@@ -9,12 +9,6 @@ Curated resources for the X402 ecosystem: specs, repos, standards, and community
 ### What is X402?
 X402 is an emerging open standard from the Coinbase ecosystem focused on safer, more composable authorization and transaction flows. This list tracks authoritative resources and adjacent standards commonly used alongside X402-style flows.
 
-### Standards and EIPs
-- **ERC‑3009 — Transfer With Authorization**: meta-transaction transfers using EIP‑712 signatures, enabling gasless and recipient-submitted transfers. [EIP‑3009](https://eips.ethereum.org/EIPS/eip-3009)
-- **EIP‑712 — Typed Structured Data Hashing and Signing**: canonical typed signing used by modern wallets. [EIP‑712](https://eips.ethereum.org/EIPS/eip-712)
-- **EIP‑2612 — permit for ERC‑20**: approvals via signatures; often complementary to authorization-based flows. [EIP‑2612](https://eips.ethereum.org/EIPS/eip-2612)
-- **ERC‑4337 — Account Abstraction (AA)**: smart account architecture that pairs well with authorization patterns. [EIP‑4337](https://eips.ethereum.org/EIPS/eip-4337)
-
 ### Official Resources
 - **x402 Official Website**: https://www.x402.org
 - **x402 Whitepaper (PDF)**: https://www.x402.org/x402-whitepaper.pdf
@@ -32,6 +26,12 @@ X402 is an emerging open standard from the Coinbase ecosystem focused on safer, 
 - **x402-rs (Rust Facilitator & SDK)**: https://github.com/x402-rs/x402-rs
 - **x402 TypeScript SDKs**: https://github.com/coinbase/x402/tree/main/typescript
 - **x402-Solana (Community)**: https://github.com/8bitsats/x402-Solana
+
+### Standards and EIPs
+- **ERC‑3009 — Transfer With Authorization**: meta-transaction transfers using EIP‑712 signatures, enabling gasless and recipient-submitted transfers. [EIP‑3009](https://eips.ethereum.org/EIPS/eip-3009)
+- **EIP‑712 — Typed Structured Data Hashing and Signing**: canonical typed signing used by modern wallets. [EIP‑712](https://eips.ethereum.org/EIPS/eip-712)
+- **EIP‑2612 — permit for ERC‑20**: approvals via signatures; often complementary to authorization-based flows. [EIP‑2612](https://eips.ethereum.org/EIPS/eip-2612)
+- **ERC‑4337 — Account Abstraction (AA)**: smart account architecture that pairs well with authorization patterns. [EIP‑4337](https://eips.ethereum.org/EIPS/eip-4337)
 
 ### Tutorials & Guides
 - **QuickNode – How to Implement a Crypto Paywall with x402**: https://www.quicknode.com/guides/infrastructure/how-to-use-x402-payment-required
