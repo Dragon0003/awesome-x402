@@ -2,14 +2,14 @@
 
 ![Merit Logo](./merit-logo.webp)
 
-Curated resources for the X402 ecosystem: specs, repos, standards, and community. Contributions welcome via pull requests.
+Curated resources for the x402 ecosystem: specs, repos, standards, and community. Contributions welcome via pull requests.
 
 ### Quick Links
 - **Website**: [x402.org](https://www.x402.org/)
 - **Spec / Repo**: [coinbase/x402](https://github.com/coinbase/x402)
 
-### What is X402?
-X402 is an emerging open standard from the Coinbase ecosystem focused on safer, more composable authorization and transaction flows. This list tracks authoritative resources and adjacent standards commonly used alongside X402-style flows.
+### What is x402?
+x402 is an emerging open standard from the Coinbase ecosystem focused on safer, more composable authorization and transaction flows. This list tracks authoritative resources and adjacent standards commonly used alongside x402-style flows.
 
 ### Official Resources
 - **x402 Official Website**: https://www.x402.org
@@ -71,7 +71,7 @@ X402 is an emerging open standard from the Coinbase ecosystem focused on safer, 
 
 ### Podcasts & Media
 - **Cognitive Revolution Podcast – "402 Payment Required"**: https://www.cognitiverevolution.ai/402-payment-required-a-new-way-for-ai-agents-to-pay-with-nemil-dalal-dev-platform-lead-coinbase/
-- **The Index Podcast – Coinbase's X402 & AI Agents**: https://www.youtube.com/watch?v=P03BXU0fnMo
+- **The Index Podcast – Coinbase's x402 & AI Agents**: https://www.youtube.com/watch?v=P03BXU0fnMo
 - **RelayMag – x402 Handshake Explainer**: https://therelaymag.com/x402-the-paywall-handshake-that-lets-agents-pay-the-web
 - **Boosty Labs Blog – AI Agents That Pay Their Own Bills**: https://boostylabs.com/ai-agents-that-pay-their-own-bills
 - **a16z – The Month Fintechs Embraced Stablecoins (mentions x402)**: https://a16zcrypto.com/posts/article/making-sense-of-stablecoin-news/
