@@ -5,8 +5,6 @@ Curated resources for the X402 ecosystem: specs, repos, standards, and community
 ### Quick Links
 - **Website**: [x402.org](https://www.x402.org/)
 - **Spec / Repo**: [coinbase/x402](https://github.com/coinbase/x402)
-- **Reddit**: [r/x402](https://www.reddit.com/r/x402/)
-- **Discord**: [Coinbase Developer Platform](https://discord.com/invite/cdp)
 
 ### What is X402?
 X402 is an emerging open standard from the Coinbase ecosystem focused on safer, more composable authorization and transaction flows. This list tracks authoritative resources and adjacent standards commonly used alongside X402-style flows.
@@ -21,9 +19,6 @@ X402 is an emerging open standard from the Coinbase ecosystem focused on safer, 
 - **x402.org**: high-level intro and updates — [x402.org](https://www.x402.org/)
 - **GitHub repo**: issues, proposals, and reference materials — [coinbase/x402](https://github.com/coinbase/x402)
   - Issues: [coinbase/x402/issues](https://github.com/coinbase/x402/issues)
-
-### Ecosystem references
-- **Security**: Multiple Withdrawal (Allowance) — SWC‑114: [swcregistry.io/docs/SWC-114](https://swcregistry.io/docs/SWC-114)
 
 ### Videos
 - [x402: Building Tools for AI agents, Demos, and Use-Cases](https://www.youtube.com/watch?v=Nodgp7fiPQc&t=197s)
