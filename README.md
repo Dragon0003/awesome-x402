@@ -1,5 +1,7 @@
 # Awesome X402
 
+![Merit Logo](./merit-logo.webp)
+
 Curated resources for the X402 ecosystem: specs, repos, standards, and community. Contributions welcome via pull requests.
 
 ### Quick Links
