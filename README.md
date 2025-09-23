@@ -29,6 +29,7 @@ x402 is an emerging open standard from the Coinbase ecosystem focused on safer, 
 - [x402-rs (Rust Facilitator & SDK)](https://github.com/x402-rs/x402-rs)
 - [x402 TypeScript SDKs](https://github.com/coinbase/x402/tree/main/typescript)
 - [x402-Solana (Community)](https://github.com/8bitsats/x402-Solana)
+- [Pipegate (x402 + Payment Channels)](https://github.com/Dhruv-2003/pipegate)
 
 ### Standards and EIPs
 - [ERC-3009 — Transfer With Authorization](https://eips.ethereum.org/EIPS/eip-3009): meta-transaction transfers using EIP-712 signatures, enabling gasless and recipient-submitted transfers. 
