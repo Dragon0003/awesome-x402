@@ -24,6 +24,7 @@ x402 is an emerging open standard from the Coinbase ecosystem focused on safer, 
 - [Coinbase Hosted Facilitator (Base)](https://docs.cdp.coinbase.com/x402#offload-your-infra)  
 -- [Supported Networks](https://docs.cdp.coinbase.com/get-started/supported-networks#x402)
 - [PayAI Facilitator & Supported Networks](https://docs.payai.network/x402/quickstart#facilitator)
+- [thirdweb Facilitator & Supported Networks](https://portal.thirdweb.com/payments/x402/facilitator)
 
 ### Open Source & SDKs
 - [coinbase/x402 (GitHub)](https://github.com/coinbase/x402)
@@ -31,6 +32,7 @@ x402 is an emerging open standard from the Coinbase ecosystem focused on safer, 
 - [x402 TypeScript SDKs](https://github.com/coinbase/x402/tree/main/typescript)
 - [x402-Solana (Community)](https://github.com/8bitsats/x402-Solana)
 - [Pipegate (x402 + Payment Channels)](https://github.com/Dhruv-2003/pipegate)
+- [thirdweb/x402 (Github)](https://github.com/thirdweb-dev/js/tree/main/packages/thirdweb/src/x402)
 
 ### Standards and EIPs
 - [ERC-3009 — Transfer With Authorization](https://eips.ethereum.org/EIPS/eip-3009): meta-transaction transfers using EIP-712 signatures, enabling gasless and recipient-submitted transfers. 
