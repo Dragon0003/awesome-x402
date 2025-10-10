@@ -20,6 +20,10 @@ x402 is an emerging open standard from the Coinbase ecosystem focused on safer, 
   - [Issues](https://github.com/coinbase/x402/issues)
 - [Cloudflare Announcement of the x402 Foundation](https://blog.cloudflare.com/x402/)
 
+### Ecosystem
+- [x402Scan](https://x402scan.com/) - Analytics and overview of the x402 ecosystem.
+- [x402 Ecosystem Directory](https://www.x402.org/ecosystem)
+
 ### Facilitators & Networks
 - [Coinbase Hosted Facilitator (Base)](https://docs.cdp.coinbase.com/x402#offload-your-infra)  
 -- [Supported Networks](https://docs.cdp.coinbase.com/get-started/supported-networks#x402)
@@ -57,8 +61,6 @@ x402 is an emerging open standard from the Coinbase ecosystem focused on safer, 
 - [Pinata jetson-x402 (Code)](https://github.com/PinataCloud/jetson-x402)
 - [x402 Example Gallery (GitHub)](https://github.com/coinbase/x402/tree/main/examples)
 
-### Ecosystem
-- [x402 Ecosystem Directory](https://www.x402.org/ecosystem)
 
 ### Security & Ops
 - [x402 Whitepaper – Security Section](https://www.x402.org/x402-whitepaper.pdf)
