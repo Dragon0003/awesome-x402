@@ -29,6 +29,8 @@ x402 is an emerging open standard from the Coinbase ecosystem focused on safer, 
 -- [Supported Networks](https://docs.cdp.coinbase.com/get-started/supported-networks#x402)
 - [PayAI Facilitator & Supported Networks](https://docs.payai.network/x402/quickstart#facilitator)
 - [thirdweb Facilitator & Supported Networks](https://portal.thirdweb.com/payments/x402/facilitator)
+- [Corbits Faremeter Facilitators & Supported Networks](https://docs.corbits.dev/about-corbits/networks)
+
 
 ### Open Source & SDKs
 - [coinbase/x402 (GitHub)](https://github.com/coinbase/x402)
@@ -37,13 +39,18 @@ x402 is an emerging open standard from the Coinbase ecosystem focused on safer, 
 - [x402-Solana (Community)](https://github.com/8bitsats/x402-Solana)
 - [Pipegate (x402 + Payment Channels)](https://github.com/Dhruv-2003/pipegate)
 - [thirdweb/x402 (Github)](https://github.com/thirdweb-dev/js/tree/main/packages/thirdweb/src/x402)
+- [Faremeter (Typescript Facilitator, Middleware, and Examples)](https://github.com/faremeter/faremeter)
 - [x402-dotnet (Community)](https://github.com/michielpost/x402-dotnet)
+
 
 ### Standards and EIPs
 - [ERC-3009 — Transfer With Authorization](https://eips.ethereum.org/EIPS/eip-3009): meta-transaction transfers using EIP-712 signatures, enabling gasless and recipient-submitted transfers. 
 - [EIP-712 — Typed Structured Data Hashing and Signing](https://eips.ethereum.org/EIPS/eip-712): canonical typed signing used by modern wallets.
 - [EIP-2612 — permit for ERC-20](https://eips.ethereum.org/EIPS/eip-2612): approvals via signatures; often complementary to authorization-based flows.
 - [ERC-4337 — Account Abstraction (AA)](https://eips.ethereum.org/EIPS/eip-4337): smart account architecture that pairs well with authorization patterns.
+
+#### Extensions
+- [ERC-3009 Forwarding](https://github.com/TheGreatAxios/eip3009-forwarder): forwarding contract extending meta-transactions with EIP-721 signatures to any ERC-20 on any network
 
 ### Tutorials & Guides
 - [QuickNode – How to Implement a Crypto Paywall with x402](https://www.quicknode.com/guides/infrastructure/how-to-use-x402-payment-required)
