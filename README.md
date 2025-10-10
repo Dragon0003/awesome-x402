@@ -20,6 +20,10 @@ x402 is an emerging open standard from the Coinbase ecosystem focused on safer, 
   - [Issues](https://github.com/coinbase/x402/issues)
 - [Cloudflare Announcement of the x402 Foundation](https://blog.cloudflare.com/x402/)
 
+### Ecosystem
+- [x402Scan](https://x402scan.com/) - Analytics and overview of the x402 ecosystem.
+- [x402 Ecosystem Directory](https://www.x402.org/ecosystem)
+
 ### Facilitators & Networks
 - [Coinbase Hosted Facilitator (Base)](https://docs.cdp.coinbase.com/x402#offload-your-infra)  
 -- [Supported Networks](https://docs.cdp.coinbase.com/get-started/supported-networks#x402)
@@ -36,6 +40,8 @@ x402 is an emerging open standard from the Coinbase ecosystem focused on safer, 
 - [Pipegate (x402 + Payment Channels)](https://github.com/Dhruv-2003/pipegate)
 - [thirdweb/x402 (Github)](https://github.com/thirdweb-dev/js/tree/main/packages/thirdweb/src/x402)
 - [Faremeter (Typescript Facilitator, Middleware, and Examples)](https://github.com/faremeter/faremeter)
+- [x402-dotnet (Community)](https://github.com/michielpost/x402-dotnet)
+
 
 ### Standards and EIPs
 - [ERC-3009 — Transfer With Authorization](https://eips.ethereum.org/EIPS/eip-3009): meta-transaction transfers using EIP-712 signatures, enabling gasless and recipient-submitted transfers. 
@@ -63,8 +69,6 @@ x402 is an emerging open standard from the Coinbase ecosystem focused on safer, 
 - [Pinata jetson-x402 (Code)](https://github.com/PinataCloud/jetson-x402)
 - [x402 Example Gallery (GitHub)](https://github.com/coinbase/x402/tree/main/examples)
 
-### Ecosystem
-- [x402 Ecosystem Directory](https://www.x402.org/ecosystem)
 
 ### Security & Ops
 - [x402 Whitepaper – Security Section](https://www.x402.org/x402-whitepaper.pdf)
